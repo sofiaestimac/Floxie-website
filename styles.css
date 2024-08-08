@@ -22,7 +22,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(f-pattern_background.jpg) no-repeat;
+    background: url(Assets/f-pattern_background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
